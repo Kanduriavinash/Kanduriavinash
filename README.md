@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Avinash K
+# 👋 Hi, I'm kanduriavinash
 
 ### 💻 Developer • 🤖 AI/ML Enthusiast • 🚀 Builder
 
