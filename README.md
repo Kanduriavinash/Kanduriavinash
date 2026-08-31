@@ -186,9 +186,9 @@ Focused on improving problem-solving skills through consistent practice.
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Kanduriavinash&show_icons=true&theme=transparent&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub Stats"/>
+<img src="https://github-stats-extended.vercel.app/api?username=Kanduriavinash&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" alt="GitHub Stats"/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kanduriavinash&layout=compact&theme=transparent&hide_border=true" alt="Top Languages"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Kanduriavinash&layout=compact&theme=transparent&hide_border=true" alt="Top Languages"/>
 
 <br/>
 
