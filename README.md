@@ -36,25 +36,33 @@
 
 ### 💻 Languages
 
-<img src="https://skillicons.dev/icons?i=java,python,c,js,ts,html,css" alt="Languages"/>
+<img src="https://skillicons.dev/icons?i=java,python,c,js,ts,html,css" alt="Java, Python, C, JavaScript, TypeScript, HTML and CSS"/>
 
-### ⚛️ Frameworks & Development
+### 🌐 Frameworks & Application Development
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,vite,tailwind" alt="Frameworks"/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,spring,flask,vite,tailwind" alt="React, Next.js, Node.js, Express, Spring, Flask, Vite and Tailwind CSS"/>
 
-### 🗄️ Databases & Backend
+### 🗄️ Databases & Backend Services
 
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite,supabase,firebase" alt="Databases"/>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite,firebase,supabase" alt="PostgreSQL, MySQL, MongoDB, SQLite, Firebase and Supabase"/>
 
-### 🤖 AI / Computer Vision
+### 🤖 AI, Machine Learning & Computer Vision
 
-<img src="https://skillicons.dev/icons?i=python,opencv" alt="AI and Computer Vision"/>
+<img src="https://skillicons.dev/icons?i=pytorch,opencv,python" alt="PyTorch, OpenCV and Python"/>
+
+<p>
+  <img src="https://img.shields.io/badge/Agentic%20AI-MCP%20%7C%20ReAct-6E40C9?style=flat-square" alt="Agentic AI, MCP and ReAct"/>
+  <img src="https://img.shields.io/badge/RAG-Hybrid%20Retrieval-0A7EA4?style=flat-square" alt="Retrieval-augmented generation"/>
+  <img src="https://img.shields.io/badge/Computer%20Vision-MediaPipe%20%7C%20YOLO-2E8B57?style=flat-square" alt="MediaPipe and YOLO"/>
+  <img src="https://img.shields.io/badge/Real--Time-WebRTC-333333?style=flat-square" alt="WebRTC"/>
+</p>
 
 ### ⚙️ Tools & Platforms
 
-<img src="https://skillicons.dev/icons?i=git,github,docker,vscode" alt="Tools"/>
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,linux,postman" alt="Git, GitHub, Docker, VS Code, Linux and Postman"/>
 
 </div>
+
 
 ---
 
