@@ -1,8 +1,8 @@
 <div align="center">
 
-# 👋 Hi, I'm kanduriavinash
+# 👋 Hi, I'm Avinash Kanduri
 
-### 💻 Developer • 🤖 AI/ML Enthusiast • 🚀 Builder
+### Software Engineering • AI Engineering • Full-Stack Development
 
 <p>
   <a href="https://github.com/Kanduriavinash">
@@ -44,7 +44,7 @@
 
 ### 🗄️ Databases & Backend
 
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite,firebase" alt="Databases"/>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite,supabase,firebase" alt="Databases"/>
 
 ### 🤖 AI / Computer Vision
 
@@ -231,15 +231,15 @@ Explore more experiments and builds across web development, AI, computer vision 
 | 🏏 cricket-scorer-pro   | Web Development                |
 | 📜 chronicle            | Web Development                |
 | 🌐 mybrowser            | Web Development                |
-| 📇 Contact-book         | Java / Application Development |
+| 📇 Contact-book         | Frontend / JavaScript           |
 | ☕ JAVA-Project          | Java                           |
 | 🌦️ Weather_api         | API Development                |
 | 📝 blog_app             | Web Development                |
-| 🎮 Number-guessing-game | Java / Game                    |
+| 🎮 Number-guessing-game | JavaScript / Game               |
 | 💰 LOAN-EMI-Calculator  | Application Development        |
 | 🦊 ShadowFox            | Development                    |
 | 🧮 div-it-up            | Programming                    |
-| 🗄️ dbms-project-       | Database / Web Development     |
+| ⚖️ NyayaOS              | Agentic AI / MCP                |
 
 </div>
 
@@ -247,77 +247,18 @@ Explore more experiments and builds across web development, AI, computer vision 
 
 # 🎯 Current Focus
 
-<div align="center">
-
-### 🤖 AI Engineering
-
-`███████████████████░` **95%**
-
-### 🌐 Full-Stack Development
-
-`██████████████████░░` **90%**
-
-### 👁️ Computer Vision
-
-`████████████████░░░░` **80%**
-
-### 🧩 DSA / Problem Solving
-
-`███████████████░░░░░` **75%**
-
-### 🏗️ System Design
-
-`████████████░░░░░░░░` **60%**
-
-</div>
+- **Agentic AI & RAG** — building systems that can retrieve evidence, reason over context, and coordinate tools
+- **Computer Vision & Edge AI** — working on real-time perception and assistive applications
+- **Full-Stack Engineering** — developing end-to-end applications with Java, Spring Boot, JavaScript/TypeScript, and modern web tooling
+- **Problem Solving** — strengthening data structures, algorithms, and software design fundamentals
 
 ---
 
-# 📈 Developer Journey
+# 🧭 How I Build
 
-```text
-              ┌─────────────────────┐
-              │       IDEAS         │
-              └──────────┬──────────┘
-                         ↓
-              ┌─────────────────────┐
-              │      LEARNING       │
-              └──────────┬──────────┘
-                         ↓
-              ┌─────────────────────┐
-              │       BUILD         │
-              └──────────┬──────────┘
-                         ↓
-              ┌─────────────────────┐
-              │       TEST          │
-              └──────────┬──────────┘
-                         ↓
-              ┌─────────────────────┐
-              │       DEBUG         │
-              └──────────┬──────────┘
-                         ↓
-              ┌─────────────────────┐
-              │       SHIP 🚀       │
-              └──────────┬──────────┘
-                         ↓
-              ┌─────────────────────┐
-              │      IMPROVE        │
-              └─────────────────────┘
-```
+**Understand the problem → Design the approach → Build a working version → Test real use cases → Iterate and ship.**
 
----
-
-# 🌟 What I Like Building
-
-```text
-🤖 AI-powered applications
-👁️ Computer vision systems
-🌐 Full-stack web applications
-⚡ Developer tools
-📡 Real-time applications
-🧩 Problem-solving projects
-🚀 Hackathon prototypes
-```
+I value practical engineering, clear documentation, responsible AI, and software that solves a real problem.
 
 ---
 
@@ -331,6 +272,10 @@ Explore more experiments and builds across web development, AI, computer vision 
 
 <a href="https://github.com/Kanduriavinash/my-portfolio">
 <img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+</a>
+
+<a href="https://www.linkedin.com/in/kanduri-avinas-822970313/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
 </div>
