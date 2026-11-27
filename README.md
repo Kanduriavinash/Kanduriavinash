@@ -270,7 +270,7 @@ I value practical engineering, clear documentation, responsible AI, and software
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
-<a href="https://github.com/Kanduriavinash/my-portfolio">
+<a href="https://kanduriavinash.github.io/Portfolio/">
 <img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
 </a>
 
