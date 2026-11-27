@@ -62,121 +62,117 @@
 
 <table>
 <tr>
-
 <td width="50%" valign="top">
 
-## ⚖️ NyayaOS
+## 🧠 DevMind
 
-**Agentic AI platform for the justice ecosystem.**
+**Agentic AI software self-healing engine.**
 
-Built around **MCP servers, multi-agent orchestration, Next.js, TypeScript, Prisma and SQLite**.
+Combines **Text Analytics, Hybrid RAG and ReAct agents** to localize bugs, generate code patches, and test candidate fixes in isolated Docker sandboxes.
 
-🔹 Citizen Portal
-🔹 Lawyer Workspace
-🔹 Judge Dashboard
-🔹 Registry Dashboard
-🔹 Admin Console
-🔹 8 MCP Servers
+- 🔎 Hybrid BM25 + semantic retrieval
+- 🤖 Autonomous repair and reflection loop
+- 🐳 Non-root, isolated test execution
+- ✅ Human review before code updates
 
-<a href="https://github.com/Kanduriavinash/NyayaOS">
+<a href="https://github.com/Kanduriavinash/Devmind">
 <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github"/>
 </a>
 
 </td>
-
 <td width="50%" valign="top">
 
-## 👻 PhantomAI
+## 👁️ Assistive Vision Platform (AVP)
 
-**Gesture-controlled computer vision system.**
+**Multimodal edge-AI navigation assistant.**
 
-Uses **OpenCV + MediaPipe** to detect hand gestures and trigger real-time visual effects.
+Combines **YOLOv8, Depth Anything V2, OCR and BLIP** to understand scenes, identify nearby hazards, read text, and deliver spoken navigation context.
 
-✌️ Normal
-👍 Camouflage
-🖐️ Ghost
-✊ Freeze
+- 🎯 Real-time object and hazard detection
+- 📏 Monocular depth estimation
+- 🔤 Scene text recognition
+- 🔊 Audio guidance with mobile camera support
 
-<a href="https://github.com/Kanduriavinash/PhantomAI">
+<a href="https://github.com/Kanduriavinash/Assistive-vision-model">
 <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github"/>
 </a>
 
 </td>
-
 </tr>
-
 <tr>
+<td width="50%" valign="top">
 
+## 💼 WorkHive
+
+**Full-stack job portal and recruitment management system.**
+
+Built with **Java 21, Spring Boot, Spring Security, Spring Data JPA and Thymeleaf** to connect job seekers and recruiters through role-based workflows.
+
+- 👤 Candidate profiles and resume uploads
+- 📋 Job discovery and applications
+- 🏢 Recruiter job and applicant management
+- 📱 Web experience and Android app
+
+<a href="https://github.com/Kanduriavinash/workhive">
+<img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github"/>
+</a>
+<a href="https://workhive1.onrender.com/">
+<img src="https://img.shields.io/badge/Live%20Demo-2563EB?style=for-the-badge&logo=render"/>
+</a>
+
+</td>
 <td width="50%" valign="top">
 
 ## 📡 PeerShare
 
 **Browser-to-browser peer-to-peer file sharing.**
 
-Built using **React, TypeScript, WebRTC, Firebase and signaling infrastructure**.
+Uses **React, TypeScript, WebRTC and Firebase signaling** to transfer files directly between browsers without storing file contents on a central server.
 
-🔹 Direct file transfer
-🔹 SHA-256 verification
-🔹 Multi-user rooms
-🔹 Mobile-friendly interface
-🔹 No permanent file storage
+- 🔗 Temporary rooms for up to five members
+- ⚡ Direct WebRTC data-channel transfers
+- 🔐 SHA-256 file integrity verification
+- 📱 Responsive desktop and mobile interface
 
 <a href="https://github.com/Kanduriavinash/Peer2Peer">
 <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github"/>
 </a>
-
-</td>
-
-<td width="50%" valign="top">
-
-## 🛒 QuickCart
-
-**Interactive e-commerce frontend experience.**
-
-Built using **HTML, CSS and JavaScript** with product browsing, search, cart management and animated interactions.
-
-🔹 Product catalog
-🔹 Search
-🔹 Shopping cart
-🔹 Authentication UI
-🔹 Responsive design
-
-<a href="https://github.com/Kanduriavinash/QuickCart">
-<img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github"/>
+<a href="https://kanduriavinash.github.io/Peer2Peer/">
+<img src="https://img.shields.io/badge/Live%20Demo-2563EB?style=for-the-badge&logo=githubpages"/>
 </a>
 
 </td>
-
 </tr>
-
 <tr>
-
 <td width="50%" valign="top">
 
-## 🌐 My Portfolio
+## 👻 PhantomAI
 
-My personal developer portfolio showcasing my projects, skills and work.
+**Gesture-controlled AI camouflage system.**
 
-<a href="https://github.com/Kanduriavinash/my-portfolio">
+Uses **OpenCV and MediaPipe** for real-time human segmentation and hand tracking, turning gestures into visual effects.
+
+- ✌️ Peace sign — normal visibility
+- 👍 Thumbs up — camouflage
+- 🖐️ Open palm — ghost mode
+- ✊ Fist — freeze effect
+
+<a href="https://github.com/Kanduriavinash/PhantomAI">
 <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github"/>
 </a>
 
 </td>
-
 <td width="50%" valign="top">
 
-## 🧠 LeetCode Solutions
+### 🚀 More projects
 
-A growing collection of **DSA and algorithm problem solutions**.
+Explore more experiments and builds across web development, AI, computer vision and software engineering.
 
-Focused on improving problem-solving skills through consistent practice.
-
-<a href="https://github.com/Kanduriavinash/Leetcode-solutions">
-<img src="https://img.shields.io/badge/View%20Solutions-181717?style=for-the-badge&logo=github"/>
+<a href="https://github.com/Kanduriavinash?tab=repositories">
+<img src="https://img.shields.io/badge/Explore%20All%20Repositories-181717?style=for-the-badge&logo=github"/>
 </a>
 
 </td>
-
 </tr>
 </table>
 
