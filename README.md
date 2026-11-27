@@ -40,7 +40,7 @@
 
 ### 🌐 Frameworks & Application Development
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,spring,flask,streamlit,vite,tailwind,electron" alt="React, Next.js, Node.js, Express, Spring, Flask, Vite and Tailwind CSS"/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,spring,flask,streamlit,vite,tailwind,electron" alt="React, Next.js, Node.js, Express, Spring, Flask, Streamlit, Vite, Tailwind CSS and Electron"/>
 
 ### 🗄️ Databases & Backend Services
 
@@ -59,7 +59,7 @@
 
 ### ⚙️ Tools & Platforms
 
-<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,linux,intellij" alt="Git, GitHub, Docker, VS Code, Linux and Postman"/>
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,linux,intellij" alt="Git, GitHub, Docker, VS Code, Linux and IntelliJ IDEA"/>
 
 </div>
 
