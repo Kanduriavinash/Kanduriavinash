@@ -40,11 +40,11 @@
 
 ### 🌐 Frameworks & Application Development
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,spring,flask,vite,tailwind" alt="React, Next.js, Node.js, Express, Spring, Flask, Vite and Tailwind CSS"/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,spring,flask,streamlit,vite,tailwind,electron" alt="React, Next.js, Node.js, Express, Spring, Flask, Vite and Tailwind CSS"/>
 
 ### 🗄️ Databases & Backend Services
 
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite,firebase,supabase" alt="PostgreSQL, MySQL, MongoDB, SQLite, Firebase and Supabase"/>
+<img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,sqlite,firebase,supabase" alt="PostgreSQL, MySQL, MongoDB, SQLite, Firebase and Supabase"/>
 
 ### 🤖 AI, Machine Learning & Computer Vision
 
@@ -59,7 +59,7 @@
 
 ### ⚙️ Tools & Platforms
 
-<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,linux,postman" alt="Git, GitHub, Docker, VS Code, Linux and Postman"/>
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,linux,intellij" alt="Git, GitHub, Docker, VS Code, Linux and Postman"/>
 
 </div>
 
